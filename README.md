@@ -7,6 +7,8 @@ To classify brain MRI images into 4 categories:
 3. Meningioma Tumor
 4. Pituitary Tumor
 
+Link to dataset: https://drive.google.com/drive/folders/123VilbSYTIjdXBLYTNKXAyIL7mARK0uT?usp=sharing
+
 ### Techniques Used:
 The same problem is solved using 
 - <b>Traditional CNN Approach</b> (using TPU Strategy) and 
