@@ -9,7 +9,8 @@ To classify brain MRI images into 4 categories:
 
 Link to dataset: https://drive.google.com/drive/folders/123VilbSYTIjdXBLYTNKXAyIL7mARK0uT?usp=sharing
 
-### Techniques Used:
-The same problem is solved using 
-- <b>Traditional CNN Approach</b> (using TPU Strategy) and 
-- <b>Transfer Learning</b> (VGG-16) to compare the results and performance of both the techniques.
+### Techniques Used
+The same problem is solved using two deep learning methods to compare the results and performance of both the techniques:
+
+- <b>Traditional CNN Approach</b> (using TPU Strategy)
+- <b>Transfer Learning</b> (VGG-16) 
